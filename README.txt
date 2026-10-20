@@ -1,7 +1,7 @@
 AllStatesWire.com — website files
 
 index.html          The whole site (home page, category pages and story pages).
-images/             All news photos (132 files).
+images/             All news photos (135 files).
 PHOTO-CREDITS.txt   Source and license of every photo.
 
 To view: open index.html in a browser.
