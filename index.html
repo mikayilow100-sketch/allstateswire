@@ -327,7 +327,7 @@ footer .word span{color:#ff6b80}
       </a>
       <div class="mast-info">
         <strong id="today">Saturday, October 17, 2026</strong>
-        <span>National Edition · Updated 2:30 p.m. CT</span>
+        <span>National Edition</span>
       </div>
     </div>
   </div>
@@ -486,6 +486,7 @@ footer .word span{color:#ff6b80}
 
 <script>
 (function(){
+  try{const d=new Date();document.getElementById('today').textContent=d.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric',timeZone:'America/Chicago'});}catch(e){}
   const breaking=[["WASHINGTON", "Noah Adams, longtime host of NPR's All Things Considered, dies"], ["MIAMI", "Florida Republican's ad aimed at Trump shows GOP worry over Latino voters"], ["WASHINGTON", "Zelenskyy says U.S. intelligence sharing with Ukraine has resumed"], ["WICHITA", "Two killed, 11 hurt when truck drives into youth soccer game in Wichita"], ["NEW YORK", "Fourth round of 'No Kings' protests pushes early voting"], ["SUNRISE", "Panthers make NHL history with natural hat tricks in three straight games"],["WASHINGTON", "White powder letters sent to election officials and Congress"], ["WASHINGTON", "Kimberly Guilfoyle resigns as ambassador to Greece"], ["LAS VEGAS", "Duane 'Keffe D' Davis sentenced to 40 years in Tupac Shakur murder"], ["MILWAUKEE", "Brewers set for World Series starting Oct. 23"], ["WASHINGTON", "White House press secretary fired after five days"], ["TAMPA", "CENTCOM says blockade has stopped $25 billion in Iranian oil exports"]];
   const run=document.getElementById('run');
   const html=breaking.map(([d,t])=>`<span><b>${d}</b>${t}</span>`).join('');
