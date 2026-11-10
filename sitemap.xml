@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://allstateswire.com/</loc><lastmod>2026-11-05</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://allstateswire.com/</loc><lastmod>2026-11-10</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://allstateswire.com/news/gas-prices-fall-below-4-a-gallon-but-inflation-stays-high/</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://allstateswire.com/images/gas4.jpg</image:loc></image:image></url>
+  <url><loc>https://allstateswire.com/news/house-republicans-vote-on-new-leader-after-midterm-losses/</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://allstateswire.com/images/housegop.jpg</image:loc></image:image></url>
+  <url><loc>https://allstateswire.com/news/supreme-court-lets-border-wall-construction-move-ahead/</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://allstateswire.com/images/borderwall.jpg</image:loc></image:image></url>
+  <url><loc>https://allstateswire.com/news/average-price-of-a-new-car-hits-record-above-51-000/</loc><lastmod>2026-11-10</lastmod><image:image><image:loc>https://allstateswire.com/images/carprice.jpg</image:loc></image:image></url>
   <url><loc>https://allstateswire.com/news/democrats-win-control-of-the-house-cbs-news-projects/</loc><lastmod>2026-11-04</lastmod><image:image><image:loc>https://allstateswire.com/images/house.jpg</image:loc></image:image></url>
   <url><loc>https://allstateswire.com/news/democrats-win-back-the-senate-flipping-at-least-seven-seats/</loc><lastmod>2026-11-04</lastmod><image:image><image:loc>https://allstateswire.com/images/senate.jpg</image:loc></image:image></url>
   <url><loc>https://allstateswire.com/news/james-talarico-defeats-ken-paxton-in-texas-senate-race/</loc><lastmod>2026-11-04</lastmod><image:image><image:loc>https://allstateswire.com/images/talarico.jpg</image:loc></image:image></url>
